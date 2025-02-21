@@ -1,0 +1,4 @@
+include ':tensorflow'
+include ':mylibrary-debug'
+include ':app'
+rootProject.name = "My Application"
